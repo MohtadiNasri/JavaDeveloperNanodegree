@@ -175,7 +175,6 @@ public class Starter {
         return luckyName;
     }
 
-    //String [] names = {"mohtadiNasri", "mommmmmmmm", "nasriiiiiiiiiiiiiiiiiiiiiiiii", "alhamdulillah", "jawn7laJaw"};
     public String findLongestName(String [] names){
         int namesLength = names.length;
         //System.out.println(namesLength);
