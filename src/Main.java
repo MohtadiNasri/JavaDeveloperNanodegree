@@ -343,8 +343,9 @@ public class Main {
         //System.out.println(years);
 
 
-        String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
-        starter.printInReverse(week);
+        // Problem Set 4 : Question 5
+        //String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
+        //starter.printInReverse(week);
 
     }
 }
