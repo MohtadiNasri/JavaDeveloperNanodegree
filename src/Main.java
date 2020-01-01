@@ -276,76 +276,77 @@ public class Main {
         */
 
 
-        IntroToJavaProgramming starter = new IntroToJavaProgramming();
-        //starter.chorus();
-        //starter.doGreeting("PARIS");
+        IntroToJavaProgramming introToJavaProgramming = new IntroToJavaProgramming();
+
+        //introToJavaProgramming.chorus();
+        //introToJavaProgramming.doGreeting("PARIS");
 
         //int temperature = 36;
-        //starter.weatherInterpreter(temperature);
+        //introToJavaProgramming.weatherInterpreter(temperature);
 
-        //int currentLikes = starter.likePhoto(0,"Thank you buddy!", true);
+        //int currentLikes = introToJavaProgramming.likePhoto(0,"Thank you buddy!", true);
         //System.out.println(currentLikes);
-        //int totalLikes = starter.likePhoto(currentLikes,"Thank you buddy!", true);
+        //int totalLikes = introToJavaProgramming.likePhoto(currentLikes,"Thank you buddy!", true);
         //System.out.println(totalLikes);
 
-        //double change = starter.makeChange(5.2,10.0);
+        //double change = introToJavaProgramming.makeChange(5.2,10.0);
         //System.out.println(change);
 
-        //int randomValue1 = starter.rollDice();
-        //int randomValue2 = starter.rollDice();
+        //int randomValue1 = introToJavaProgramming.rollDice();
+        //int randomValue2 = introToJavaProgramming.rollDice();
         //System.out.println("Rolling  Dice \n First: "+randomValue1 +" | Second: " + randomValue2);
 
-        //int randomValue = starter.rollDice(12);
+        //int randomValue = introToJavaProgramming.rollDice(12);
         //System.out.println("Rolling the Dice: " +randomValue);
 
-        //double absoluteValue = starter.absoluteValue(-11);
+        //double absoluteValue = introToJavaProgramming.absoluteValue(-11);
         //System.out.println(absoluteValue);
 
-        //double mealcost = starter.calculateTip(15);
+        //double mealcost = introToJavaProgramming.calculateTip(15);
         //System.out.println(mealcost);
 
-        //String greeting = starter.nameTagText("Mohtadi");
+        //String greeting = introToJavaProgramming.nameTagText("Mohtadi");
         //System.out.println(greeting);
 
-        //double temperatureFehrToCelcuis = starter.fahrenheitToCelsius(60.0);
+        //double temperatureFehrToCelcuis = introToJavaProgramming.fahrenheitToCelsius(60.0);
         //System.out.println(temperatureFehrToCelcuis);
 
-        //starter.printTemperature(60.0);
+        //introToJavaProgramming.printTemperature(60.0);
 
-        //starter.alarm();
+        //introToJavaProgramming.alarm();
 
-        //String concatLength = starter.stringLength();
+        //String concatLength = introToJavaProgramming.stringLength();
         //System.out.println(concatLength);
 
-        //int result = starter.keeprolling();
+        //int result = introToJavaProgramming.keeprolling();
         //System.out.println(result);
 
-        //starter.raiseAlarm(5);
-        //starter.raiseAlarmFor(5);
-        //int blocksNum = starter.countBlocks(3);
+        //introToJavaProgramming.raiseAlarm(5);
+        //introToJavaProgramming.raiseAlarmFor(5);
+        //int blocksNum = introToJavaProgramming.countBlocks(3);
         //System.out.println(blocksNum);
 
-        //String randomName = starter.chooseRandom();
+        //String randomName = introToJavaProgramming.chooseRandom();
         //System.out.println(randomName);
 
         //String [] names = {"mohtadi Nasri", "Mom", "Nasri", "Oups!"};
-        //String result = starter.findLongestName(names);
+        //String result = introToJavaProgramming.findLongestName(names);
         //System.out.println(result);
 
-        //int fact = starter.factorial(5);
+        //int fact = introToJavaProgramming.factorial(5);
         //System.out.println(fact);
 
         //String[] sentence = {"Learning", "Java", "is", "fun."};
-        //int indexOfWordJava = starter.indexOfFirstOccurrence(sentence, "Learning");
+        //int indexOfWordJava = introToJavaProgramming.indexOfFirstOccurrence(sentence, "Learning");
         //System.out.println(indexOfWordJava);
 
-        //int years = starter.yearsTilOneMillion(10);
+        //int years = introToJavaProgramming.yearsTilOneMillion(10);
         //System.out.println(years);
 
 
         // Problem Set 4 : Question 5
         //String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
-        //starter.printInReverse(week);
+        //introToJavaProgramming.printInReverse(week);
 
     }
 }
