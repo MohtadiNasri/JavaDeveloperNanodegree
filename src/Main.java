@@ -302,12 +302,15 @@ public class Main {
         //double absoluteValue = introToJavaProgramming.absoluteValue(-11);
         //System.out.println(absoluteValue);
 
+        //Problem Set 3 : Question 5
         //double mealcost = introToJavaProgramming.calculateTip(15);
         //System.out.println(mealcost);
 
+        //Problem Set 3 : Question 6
         //String greeting = introToJavaProgramming.nameTagText("Mohtadi");
         //System.out.println(greeting);
 
+        //Problem Set 3 : Question 7
         //double temperatureFehrToCelcuis = introToJavaProgramming.fahrenheitToCelsius(60.0);
         //System.out.println(temperatureFehrToCelcuis);
 
@@ -333,16 +336,18 @@ public class Main {
         //String result = introToJavaProgramming.findLongestName(names);
         //System.out.println(result);
 
+        //Problem Set 4 : Question 2
         //int fact = introToJavaProgramming.factorial(5);
         //System.out.println(fact);
 
+        //Problem Set 4 : Question 3
         //String[] sentence = {"Learning", "Java", "is", "fun."};
         //int indexOfWordJava = introToJavaProgramming.indexOfFirstOccurrence(sentence, "Learning");
         //System.out.println(indexOfWordJava);
 
+        //Problem Set 4 : Question 4
         //int years = introToJavaProgramming.yearsTilOneMillion(10);
         //System.out.println(years);
-
 
         // Problem Set 4 : Question 5
         //String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
