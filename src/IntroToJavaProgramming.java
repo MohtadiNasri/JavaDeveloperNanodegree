@@ -1,4 +1,4 @@
-public class Starter {
+public class IntroToJavaProgramming {
 
     boolean playButton = false;
     public void chorus() {
