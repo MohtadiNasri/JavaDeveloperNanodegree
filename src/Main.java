@@ -344,8 +344,8 @@ public class Main {
 
 
         // Problem Set 4 : Question 5
-        String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
-        starter.printInReverse(week);
+        //String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
+        //starter.printInReverse(week);
 
     }
 }
