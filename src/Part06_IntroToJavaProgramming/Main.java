@@ -1,4 +1,4 @@
-
+package Part06_IntroToJavaProgramming;
 
 public class Main {
 
@@ -350,8 +350,8 @@ public class Main {
         //System.out.println(years);
 
         // Problem Set 4 : Question 5
-        //String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
-        //introToJavaProgramming.printInReverse(week);
+        String[] week =  {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
+        introToJavaProgramming.printInReverse(week);
 
     }
 }

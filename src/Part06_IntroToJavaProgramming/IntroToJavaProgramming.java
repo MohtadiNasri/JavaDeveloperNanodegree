@@ -1,3 +1,5 @@
+package Part06_IntroToJavaProgramming;
+
 public class IntroToJavaProgramming {
 
     boolean playButton = false;
