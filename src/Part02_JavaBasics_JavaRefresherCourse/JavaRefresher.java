@@ -44,4 +44,10 @@ public class JavaRefresher {
         return -1;
 
     }
+
+    public static void printPermutn(int[] arr, int index) {
+        //Recursion
+    }
+
+
 }
