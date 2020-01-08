@@ -2,6 +2,7 @@ package Part02_JavaBasics_JavaRefresherCourse;
 
 import com.sun.org.apache.xerces.internal.impl.xpath.regex.Match;
 
+import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -25,8 +26,19 @@ public class JavaRefresherMain {
        //String vowelsOutput = javaRefresher.vowelOnly("Hello World");
        //System.out.println(vowelsOutput);
 
-        int index = javaRefresher.findTarget();
-        System.out.println(index);
+        //int index = javaRefresher.findTarget();
+        //System.out.println(index);
+
+        //Java Refresher - Collection List
+        //List is an interface and ArrayList and LinkedList are the implementation
+        ArrayList<String> list = new ArrayList<String>() ;
+        list.add( "Andy" );
+        list.add( "Bart" );
+        list.add( "Carl" );
+        list.add( "Doug" );
+        list.add( "Elmo" );
+        list.add(4, "Oscar");
+        System.out.println(list);
 
 
     }
