@@ -22,8 +22,12 @@ public class JavaRefresherMain {
         //System.out.println(sb.toString());
 
        JavaRefresher javaRefresher = new JavaRefresher();
-       String vowelsOutput = javaRefresher.vowelOnly("Hello World");
-       System.out.println(vowelsOutput);
+       //String vowelsOutput = javaRefresher.vowelOnly("Hello World");
+       //System.out.println(vowelsOutput);
+
+        int index = javaRefresher.findTarget();
+        System.out.println(index);
+
 
     }
 }
